@@ -1,0 +1,23 @@
+//
+//  TabbarControllerExample-Prefix.pch
+//  TabbarControllerExample
+//
+//  Created by 封斌 on 15/10/20.
+//  Copyright © 2015年 supermanUI. All rights reserved.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_7_0
+#warning "This project uses features only available in iOS SDK 7.0 and later."
+#endif
+
+#ifdef __OBJC__
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "UIView+Property.h"
+#import "UIBarButtonItem+ItemTool.h"
+#import "CustomSearchBar.h"
+
+#endif
