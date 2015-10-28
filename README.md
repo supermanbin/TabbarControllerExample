@@ -7,7 +7,7 @@
 > TabbarControllerExample
 >> CLass
 >>> Libs `第三方库文件`
->>>> AFNetWorking
+>>>> AFNetWorking <br>
 >>>> SDWebImage
 >>> OAuth `新浪授权`
 >>> Category `分类`
