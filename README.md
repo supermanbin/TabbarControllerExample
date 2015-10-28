@@ -6,8 +6,8 @@
 ***
 > 
 * TabbarControllerExample
-*   CLass
-*       Libs `第三方库文件`
+    * CLass
+        * Libs `第三方库文件`
                 * AFNetWorking
                 * SDWebImage
             * OAuth `新浪授权`
