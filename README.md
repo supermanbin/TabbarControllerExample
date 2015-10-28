@@ -6,5 +6,5 @@
 ***
 > TabbarControllerExample
 >> CLass
->>> Libs `第三方库文件`>>>>AFNetWorking
-
+>>> Libs `第三方库文件`
+>>>> AFNetWorking
