@@ -5,7 +5,7 @@
 
 ***
 > TabbarControllerExample
->> CLass
+>>      CLass
 >>> Libs `第三方库文件`
 >>>> AFNetWorking <br>
 >>>> SDWebImage <br>
