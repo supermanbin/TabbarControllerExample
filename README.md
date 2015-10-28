@@ -6,5 +6,5 @@
 ***
 > TabbarControllerExample
 >> CLass
->> >> Libs
+>> Libs
 
